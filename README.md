@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Ngoc (Andy) Dao!  
 
-Empowering decisions through data, one insight at a time ✨  
-
 - 📚 Sophomore at the University of Rochester, pursuing **Data Science** and **Financial Economics**.  
 - 💼 Experienced in financial data analysis, dashboard visualization, and machine learning for actionable business insights.  
 - 🌱 Currently mastering **Predictive Analytics**, **A/B Testing**, and **Data Wrangling** for advanced data solutions.

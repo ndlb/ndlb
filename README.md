@@ -22,7 +22,7 @@
 - Built a logistic regression model with 80% accuracy to predict customer churn.  
 - Identified key factors driving churn to inform retention strategies.  
 
-**🛒 [Customer 360 Segmentation](https://github.com/ndlb/Customer360-Segmentation)**  
+**🛒 [Customer 360 Segmentation](https://github.com/ndlb/Customer-360-Segmentation)**  
 - Analyzed over 1 million rows of transaction data using SQL to uncover customer buying patterns.  
 - Implemented RFM segmentation to target high-value but low-frequency buyers for retention strategies.  
 

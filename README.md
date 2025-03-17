@@ -34,6 +34,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2346699C.svg?style=flat-square&logo=postgresql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-%231D6F42.svg?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)  
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
 ---
 

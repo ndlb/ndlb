@@ -16,16 +16,19 @@
 
 **📈 [Vietcombank Power BI Dashboard](https://github.com/ndlb/VCB-Customer-Service)**  
 - Improved data accuracy by 25% for 100,000+ banking records with Power Query.  
-- Recommended cross-selling strategies, unlocking revenue potential in lending.  
-
-**🤖 [Telecoms Churn Analysis](https://github.com/ndlb/Churn-Analysis)**  
-- Built a logistic regression model with 80% accuracy to predict customer churn.  
-- Identified key factors driving churn to inform retention strategies.  
+- Recommended cross-selling strategies, unlocking revenue potential in lending.   
 
 **🛒 [Customer 360 Segmentation](https://github.com/ndlb/Customer-360-Segmentation)**  
 - Analyzed over 1 million rows of transaction data using SQL to uncover customer buying patterns.  
 - Implemented RFM segmentation to target high-value but low-frequency buyers for retention strategies.  
 
+**💳 [Credit Score Classification](https://github.com/ndlb/Credit_Classify)**  
+- Engineered end‐to‐end machine learning pipeline in Python (pandas, scikit‐learn, XGBoost, Keras) to classify credit‐score segments—improving overall accuracy from 62 % (Logistic Regression baseline) to 76 % (XGBoost) and raising macro F₁‐score from 0.61 to 0.74.
+- Optimized Poor‐class recall from 0.69 to 0.74 and precision from 0.62 to 0.76 through feature engineering (one‐hot encoding, PCA), stratified cross‐validation, and hyperparameter tuning, ensuring robust high-risk applicant identification (sensitivity) and reduced false positives.
+
+**🤖 [Telecoms Churn Analysis](https://github.com/ndlb/Churn-Analysis)**  
+- Built a logistic regression model with 80% accuracy to predict customer churn.  
+- Identified key factors driving churn to inform retention strategies. 
 ---
 
 ### Languages and Tools  
